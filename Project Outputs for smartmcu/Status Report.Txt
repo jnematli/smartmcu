@@ -1,0 +1,32 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [smartmcu.PrjPcb]
+   Generated File[samrtmcu.GTO]
+   Generated File[samrtmcu.GTP]
+   Generated File[samrtmcu.GTS]
+   Generated File[samrtmcu.GTL]
+   Generated File[samrtmcu.GP1]
+   Generated File[samrtmcu.GP2]
+   Generated File[samrtmcu.GBL]
+   Generated File[samrtmcu.GBS]
+   Generated File[samrtmcu.GBP]
+   Generated File[samrtmcu.GBO]
+   Generated File[samrtmcu.GM1]
+   Generated File[samrtmcu.GM13]
+   Generated File[samrtmcu.GM15]
+   Generated File[samrtmcu.GKO]
+   Generated File[samrtmcu.GPT]
+   Generated File[samrtmcu.GPB]
+   Generated File[samrtmcu.3]
+   Generated File[samrtmcu.1]
+   Generated File[samrtmcu.GML]
+   Generated File[samrtmcu.2]
+   Generated File[samrtmcu.GM]
+   Generated File[samrtmcu.EXTREP]
+   Generated File[samrtmcu.REP]
+
+
+Files Generated   : 23
+Documents Printed : 0
+
+Finished Output Generation At 20:17:24 On 15/03/2024

@@ -1,0 +1,66 @@
+Protel Design System Design Rule Check
+PCB File : C:\Desktop\smartmcu\AltiumProject\smartmcu\samrtmcu.PcbDoc
+Date     : 15/03/2024
+Time     : 20:43:52
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=1.092mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.051mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.051mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.102mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Un-Routed Net Constraint ( (All) )
+   Waived Violation between Un-Routed Net Constraint: Net +3.3V Between Pad C6-2(25.65mm,43.85mm) on Bottom Layer And Via (25.65mm,44.875mm) from Top Layer to Bottom Layer Waived by Javad Nematli at 15/03/2024 20:43:17I tested it and it was ok so ignore it.
+   Waived Violation between Un-Routed Net Constraint: Net PB2 Between Track (5.35mm,20.52mm)(6.145mm,19.725mm) on Top Layer And Pad R7-2(5.35mm,20.57mm) on Bottom Layer [Unplated] Waived by Javad Nematli at 15/03/2024 20:43:17I tested it and it was ok so ignore it.
+   Waived Violation between Un-Routed Net Constraint: Net +3.3V Between Track (23.4mm,36.875mm)(23.65mm,36.625mm) on Bottom Layer And Pad U2-9(24.35mm,37.775mm) on Top Layer Waived by Javad Nematli at 15/03/2024 20:43:17I tested it and it was ok so ignore it.
+Waived Violations :3
+
+Waived Violations Of Rule : Silk To Solder Mask (Clearance=0.051mm) (IsPad),(All)
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.051mm) Between Pad U1-0(14.75mm,54.825mm) on Top Layer And Track (15.824mm,53.775mm)(15.824mm,60.475mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]Waived by Javad Nematli at 15/03/2024 20:43:17I tested it and it was ok so ignore it.
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.051mm) Between Pad U1-1(14.75mm,59.425mm) on Top Layer And Track (15.824mm,53.775mm)(15.824mm,60.475mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]Waived by Javad Nematli at 15/03/2024 20:43:17I tested it and it was ok so ignore it.
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.051mm) Between Pad U1-2(14.75mm,57.125mm) on Top Layer And Track (15.824mm,53.775mm)(15.824mm,60.475mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]Waived by Javad Nematli at 15/03/2024 20:43:17I tested it and it was ok so ignore it.
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.051mm) Between Pad U1-2(20.55mm,57.125mm) on Top Layer And Track (19.476mm,53.775mm)(19.476mm,60.475mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]Waived by Javad Nematli at 15/03/2024 20:43:17I tested it and it was ok so ignore it.
+Waived Violations :4
+
+Waived Violations Of Rule : Silk to Silk (Clearance=0.102mm) (All),(All)
+   Waived Violation between Silk To Silk Clearance Constraint: (0.094mm < 0.102mm) Between Text "R10" (5.672mm,23.979mm) on Top Overlay And Track (4.676mm,23.821mm)(7.724mm,23.821mm) on Top Overlay Silk Text to Silk Clearance [0.094mm]Waived by Javad Nematli at 15/03/2024 20:43:17I tested it and it was ok so ignore it.
+   Waived Violation between Silk To Silk Clearance Constraint: (0.081mm < 0.102mm) Between Text "R4" (5.672mm,16.335mm) on Top Overlay And Track (4.676mm,16.201mm)(7.724mm,16.201mm) on Top Overlay Silk Text to Silk Clearance [0.081mm]Waived by Javad Nematli at 15/03/2024 20:43:17I tested it and it was ok so ignore it.
+Waived Violations :2
+
+
+Violations Detected : 0
+Waived Violations : 9
+Time Elapsed        : 00:00:01
